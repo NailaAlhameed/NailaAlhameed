@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NailaAlhameed
-- 👀 I’m interested in Programing
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on Python 3.
 - 📫 How to reach me on my github @NailaAlhameed
